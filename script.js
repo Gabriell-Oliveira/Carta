@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
   // Adiciona um evento de clique
   thirdParagraph.addEventListener("click", () => {
-    alert("Aguarde alguns segundos para receber meu presente");
+    alert("Aguarde alguns segundos para receber seu presente");
     setTimeout(() => {
       window.location.href = "https://gabriell-oliveira.github.io/Flor/"; // Substitua pelo URL desejado
     }, 5000); // 20 segundos em milissegundos
